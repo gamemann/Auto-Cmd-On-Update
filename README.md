@@ -23,5 +23,10 @@ For compiling the plugin, you need SteamWork's include file (`SteamWorks.inc`) a
 
 **Note** - Both commands require the `root` flag.
 
+## Installation
+1. Compile plugin with `spcomp(64)` or `compile` executable within SourceMod's `scripting/` directory.
+1. Copy `auto_cmd_on_update.smx` file into `sourcemod/plugins` directory.
+1. Copy `translations/acou.phrases.txt` file into `sourcemod/` directory.
+
 ## Credits
 * [Christian Deacon](https://github.com/gamemann)
