@@ -12,7 +12,7 @@
         {
             "label": "sourcepawn",
             "type": "shell",
-            "command": "$sm_path/spcomp64 ${file} -D ${workspaceFolder} -i ${workspaceFolder}/scripting/include -i $sm_path/include"
+            "command": "$sm_path/spcomp64 ${file} -D ${workspaceFolder}/plugins -i ${workspaceFolder}/scripting/include -i $sm_path/include"
         }
     ]
 }
