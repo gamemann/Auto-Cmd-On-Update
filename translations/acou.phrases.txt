@@ -1,0 +1,18 @@
+"Phrases"
+{
+    "Tag"
+    {
+        "en"        "{lightgreen}[ACOU]"
+    }
+
+    "WarningMsg"
+    {
+        "#format"	"{1:d}"
+        "en"        "{default} Game update detected. Restarting server in {lightgreen}{1} {default} seconds!"
+    }
+
+    "TestReply"
+    {
+        "en"        "{default} Testing Auto Command On Update..."
+    }
+}
