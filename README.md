@@ -2,7 +2,7 @@
 ## Description
 A SourceMod plugin that executes a console command on SRCDS servers when a game update is detected. This plugins relies on a forward call in SteamWork's Update Check plugin [here](https://github.com/KyleSanderson/SteamWorks/blob/master/Pawn/UpdateCheck.sp). Therefore, you will need the plugin and SteamWorks for this plugin to operate.
 
-Additionally, a warning timer is also supported.
+Additionally, a warning timer is supported.
 
 This works great for servers that automatically check for SteamCMD updates on startup. This would essentially enable automatic game updating for your game servers.
 
