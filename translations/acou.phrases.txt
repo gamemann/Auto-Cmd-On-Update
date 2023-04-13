@@ -8,7 +8,7 @@
     "WarnMsg"
     {
         "#format"	"{1:d}"
-        "en"        "{default} Game update detected. Restarting server in {lightgreen}{1} {default} seconds!"
+        "en"        "{default} Game update detected. Restarting server in {lightgreen}{1} {default}seconds!"
     }
 
     "TestReply"
